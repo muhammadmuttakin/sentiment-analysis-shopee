@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+Sastrawi
+wordcloud
+scikit-learn
+tensorflow
+google-play-scraper
